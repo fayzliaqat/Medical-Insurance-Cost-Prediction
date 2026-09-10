@@ -94,4 +94,4 @@ if st.button("Predict Insurance Cost", use_container_width=True, type="primary")
 
 # ── Footer ────────────────────────────────────────────────────────────────────
 st.divider()
-st.caption("Medical Insurance Cost Prediction · Linear Regression Model · Day 22")
+st.caption("Medical Insurance Cost Prediction · Linear Regression Model")
