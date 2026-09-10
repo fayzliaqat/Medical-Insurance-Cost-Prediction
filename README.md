@@ -249,7 +249,7 @@ medical-insurance-cost-prediction/
 
 ## Live Demo
 
-[Live App Link — to be added after deployment]
+https://medical-insurance-cost-prediction2.streamlit.app/
 
 ---
 
